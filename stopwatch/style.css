@@ -1,0 +1,92 @@
+body {
+    background-color: grey;
+    height: 200px;
+    width: 100%;
+}
+
+#java {
+    color: orange;
+
+}
+
+.main {
+    background-color: black;
+    width: 290px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+
+}
+
+#watch {
+    color: white;
+}
+
+.time {
+    display: inline-block;
+}
+
+.btn {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+
+button {
+    width: 70px;
+    height: 25px;
+    border-radius: 8px;
+}
+
+#start {
+    background-color: red;
+    color: white;
+}
+
+#stop {
+    background-color: green;
+    color: white;
+}
+
+#reset {
+    background-color: blue;
+    color: white;
+}
+
+
+
+/* span{
+    color: orange;
+}
+#abc{
+    color: white;
+}
+.container{
+       padding: 5%;
+}
+.main{
+    /* background-color: black; */
+/* color: white;
+    width: 60%;
+   
+} */
+
+/* .pen{
+    display: inline-block; 
+}
+.abc{
+    background-color: red;
+}
+.def{
+    background-color: green;
+}
+
+.ghi{
+    background-color: blue;
+} */
+/* .btn{ */
+/* justify-content: space-between; */
+/* } */
